@@ -1,0 +1,22 @@
+Session 1 Reflection – Management of AI Products
+
+This session kind of changed how I look at what a Product Manager actually does. Before this, I thought a PM was mainly there to collect requirements 
+and act as a bridge between business folks and engineering. But when the professor called a PM the CEO of the product that hit different. 
+It's not just about coordinating anymore  it's about actually owning the thing.
+
+That made me think about my own job. My title says automation, but I'm constantly working with HR people, RPA developers, architects, business partners...
+and a lot of the time I'm making calls even though the dev team doesn't report to me. Honestly I've probably been doing PM-type work for a while without 
+ever calling it that.
+
+The bit about accountability also stuck with me. The professor said a PM owns both the wins and the failures of the product. My first reaction was —
+that's kind of unfair, since so much is out of your control. But thinking about it more, I get it now. Owning something doesn't mean doing every 
+task yourself, it means making sure the product actually gets where it needs to go. That mindset feels really important if I actually want to move into 
+AI Product Management down the line.
+
+I also liked the point about PM being a thankless job. I've seen this exact thing happen on my automation projects — people are happy with a solution at first, 
+then a few weeks later they just want more, without really acknowledging what already went into building it. The professor's take — that you should 
+track your own progress instead of waiting for people to appreciate you —was such a simple but useful reframe. Basically, building something good 
+should be enough of a reason on its own.
+
+Takeaway for myself:
+A PM isn't just someone who coordinates work , a PM owns the problem, the decisions, and the outcome.
